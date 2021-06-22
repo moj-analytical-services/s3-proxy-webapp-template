@@ -1,5 +1,5 @@
 
-FROM pottava/s3-proxy@sha256:a3019492956dffa5e166aef80861a91f2f63d90ec31aa774d2544cf229f76dfc
+FROM 593291632749.dkr.ecr.eu-west-1.amazonaws.com/s3-proxy-image:v1.0.0
 # Pinned to digest so upstream can't insert malicous code
 
 # Set environment variable
