@@ -9,3 +9,5 @@ Steps:
 - Release it on GitHub
 
 Once deployed setup your app to read data from the bucket you specified. The app will look for and host a `index.html` that should be in the root directory of your app's S3 bucket.
+
+[Link to base image build](https://github.com/moj-analytical-services/s3-proxy-image)
